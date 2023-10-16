@@ -81,7 +81,7 @@
     "react-media": "^1.9.2",
     "reqwest": "^2.0.5",
     "resize-observer-polyfill": "^1.5.1",
-    "umi": "^2.4.4",
+    "umi": "^4.0.86",
     "umi-plugin-react": "^1.7.2",
     "umi-request": "^1.0.5"
   },
